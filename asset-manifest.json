@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/zodiac-header-test/static/css/main.a272382b.css",
+    "main.css": "/zodiac-header-test/static/css/main.b665bb90.css",
     "main.js": "/zodiac-header-test/static/js/main.ae93d2d2.js",
     "static/js/787.0c3f432a.chunk.js": "/zodiac-header-test/static/js/787.0c3f432a.chunk.js",
     "static/media/zodiac.svg": "/zodiac-header-test/static/media/zodiac.a514e38805169cb1e2a65e63af789d5b.svg",
     "static/media/dual.woff": "/zodiac-header-test/static/media/dual.f86fac4850e9a2a82852.woff",
     "static/media/logo.svg": "/zodiac-header-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/zodiac-header-test/index.html",
-    "main.a272382b.css.map": "/zodiac-header-test/static/css/main.a272382b.css.map",
+    "main.b665bb90.css.map": "/zodiac-header-test/static/css/main.b665bb90.css.map",
     "main.ae93d2d2.js.map": "/zodiac-header-test/static/js/main.ae93d2d2.js.map",
     "787.0c3f432a.chunk.js.map": "/zodiac-header-test/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a272382b.css",
+    "static/css/main.b665bb90.css",
     "static/js/main.ae93d2d2.js"
   ]
 }
